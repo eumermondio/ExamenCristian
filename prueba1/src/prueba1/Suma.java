@@ -12,6 +12,7 @@ public class Suma {
 			suma += sc.nextInt();
 		}
 		System.out.println(suma);
+		System.out.println("Nueva línea.");
 	}
 
 }
